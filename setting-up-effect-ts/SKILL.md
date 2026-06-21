@@ -1,6 +1,6 @@
 ---
 name: setting-up-effect-ts
-description: Performs an opinionated mandatory setup for TypeScript repositories using Effect: adds Effect.ts agent guidelines, vendors Effect source with git subtree, and installs/configures the Effect-TS tsgo language server. Use when setting up a TypeScript repo for AI-assisted Effect development.
+description: "Performs an opinionated mandatory setup for TypeScript repositories using Effect: adds Effect.ts agent guidelines, vendors Effect source with git subtree, and installs/configures the Effect-TS tsgo language server. Use when setting up a TypeScript repo for AI-assisted Effect development."
 disable-model-invocation: true
 ---
 
