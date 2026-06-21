@@ -19,3 +19,19 @@ Skill path:
 ```text
 agents-md-curator/SKILL.md
 ```
+
+### setting-up-effect-ts
+
+`setting-up-effect-ts` helps coding agents prepare TypeScript repositories for idiomatic Effect development by vendoring the Effect source with `git subtree`, adding concise agent guidelines, and installing/configuring the Effect-TS `tsgo` language server.
+
+Install this skill with:
+
+```bash
+npx skills install lifanh/skills/setting-up-effect-ts
+```
+
+Skill path:
+
+```text
+setting-up-effect-ts/SKILL.md
+```
